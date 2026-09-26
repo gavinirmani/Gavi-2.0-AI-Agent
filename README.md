@@ -43,7 +43,7 @@ gavi_2_0/
 ├── server.py               # FastAPI backend for Web Dashboard
 ├── pyproject.toml          # Project configuration & dependencies
 ├── run.bat                 # 1-click Windows launcher
-├── .env.example            # Environment variables template
+├── .env                    # Environment variables template
 └── README.md               # Documentation
 ```
 
